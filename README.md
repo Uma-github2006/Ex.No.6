@@ -14,6 +14,7 @@ Write and implement Python code that integrates with multiple AI tools to automa
   
 ## Prompt : “Write a Python program for my IoT-based smart environment project that fetches temperature and humidity data from an IoT sensor API and the OpenWeatherMap API, then displays both values side by side in a Pandas table.”
 ## Step 1:Generate Python code for interacting with multiple APIs
+
 <img width="919" height="565" alt="image" src="https://github.com/user-attachments/assets/b3318451-6919-46e3-9011-9d069808f818" />
 
 ###  Project Code
