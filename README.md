@@ -186,7 +186,7 @@ The code uses Python functions to simulate fetching temperature and humidity dat
 - Store and Analyze Trends : Save data into a database (like ThingSpeak or Azure IoT) to study long-term temperature/humidity variations.
 - Data Visualization : Use graphs in Matplotlib or Excel to visualize daily or weekly environmental changes.
 - Automation : Use the comparison data to trigger alerts (like turning on a fan or humidifier) when indoor readings exceed limits.
-- Improve Prompting : In the next AI prompt, specifically ask: “Add error handling, data visualization, and control actions based on comparison results.”
+- Improve Prompting : In the next AI prompt, specifically ask: “Add error handling, data visualization, and control actions based on comparison results."
 
 ## Reflection Note
 This stage helped me understand how AI-generated insights can guide improvements in real IoT-based projects. I learned that comparing both API results not only checks accuracy but also helps design smart control systems for maintaining an ideal indoor environment.
